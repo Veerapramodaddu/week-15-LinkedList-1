@@ -1,0 +1,3 @@
+In a singly linked list , we require 2 pointers.
+
+Ans: 2
